@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /reys/
+---
+
 
 <div>
   <figure align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto;">
