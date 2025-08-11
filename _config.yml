@@ -11,4 +11,8 @@
 # remote_theme: jekyll-theme-minimal
 title: My GitHub Page
 description: Welcome to my site!
-theme: minima   # or cayman, slate, etc.
+# theme: minima   # or cayman, slate, etc.
+remote_theme: jekyll-theme-minimal
+header_pages:
+  - index.md
+  - rey.md
