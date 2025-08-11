@@ -1,3 +1,13 @@
+---
+layout: home
+title: Welcome!
+---
+
+# Hello world
+
+This is my home page using Jekyll and GitHub Pages.
+
+
 # 塞維亞的盾徽吃到飽之旅
 
 [ ![](./input_files/ck3-unused-coat-of-arms-640x640.png) ](./input_files/ck3-unused-coat-of-arms-640x640.png) CK3中未使用的旗幟，但所有的元素都很符合中世紀盾徽的樣式
