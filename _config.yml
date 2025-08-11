@@ -12,7 +12,9 @@
 title: My GitHub Page  # This shows up in every page
 description: Welcome to my site!
 # theme: minima   # or cayman, slate, etc.
-remote_theme: jekyll-curate
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll-theme-chirpy
 header_pages:
   - rey.md
   # - index.md
