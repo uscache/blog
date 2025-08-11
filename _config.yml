@@ -9,8 +9,8 @@
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
 # remote_theme: jekyll-theme-minimal
-title: My GitHub Page  # This shows up in every page
-description: Welcome to my site!
+title: 嶽洋留記  # This shows up in every page
+# description: Welcome to my site!
 # theme: minima   # or cayman, slate, etc.
 plugins:
   - jekyll-remote-theme
