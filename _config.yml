@@ -14,7 +14,7 @@ description: Welcome to my site!
 # theme: minima   # or cayman, slate, etc.
 plugins:
   - jekyll-remote-theme
-remote_theme: wowthemesnet/mundana-theme-jekyll
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 header_pages:
   - rey.md
   # - index.md
