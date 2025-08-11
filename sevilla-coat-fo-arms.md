@@ -1,8 +1,4 @@
-#  [ 嶽洋留記 ](https://uscache.blogspot.com/)
-
-[首頁](https://uscache.blogspot.com/) __[盾徽](https://uscache.blogspot.com/search/label/%E7%9B%BE%E5%BE%BD) __[番外篇] 塞維亞的盾徽吃到飽之旅
-
-#  [番外篇] 塞維亞的盾徽吃到飽之旅
+# 塞維亞的盾徽吃到飽之旅
 
 [ ![](./input_files/ck3-unused-coat-of-arms-640x640.png) ](./input_files/ck3-unused-coat-of-arms-640x640.png) CK3中未使用的旗幟，但所有的元素都很符合中世紀盾徽的樣式
 
