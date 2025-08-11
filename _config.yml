@@ -9,12 +9,12 @@
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
 # remote_theme: jekyll-theme-minimal
-title: 嶽洋留記  # This shows up in every page
+title: 嶽洋留記  # This shows up in every page?
 # description: Welcome to my site!
 # theme: minima   # or cayman, slate, etc.
 plugins:
   - jekyll-remote-theme
 remote_theme: uscache/mediumish-theme-jekyll
-header_pages:
-  - rey.md
+# header_pages:
+#   - rey.md
   # - index.md
