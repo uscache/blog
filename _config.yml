@@ -16,7 +16,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
 remote_theme: uscache/mediumish-theme-jekyll
-paginate: 5
+paginate: 6
 paginate_path: "/page:num"
 
 # header_pages:
