@@ -8,8 +8,14 @@
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
-title: "嶽洋留記"
+
+# Site
+name: "嶽洋留記"
 description: "一個歷史遊戲迷的回憶錄"
+logo: "assets/imgs/logo.png"
+# google_analytics: 'UA-46278016-1'
+# disqus: 'demowebsite'
+# favicon: 'assets/images/logo.png'
 
 
 # Plugins
@@ -39,8 +45,3 @@ jekyll-archives:
 # Misc.
 comments: false
 remote_theme: uscache/mediumish-theme-jekyll
-logo: "assets/imgs/logo.png"
-
-# header_pages:
-#   - rey.md
-  # - index.md
