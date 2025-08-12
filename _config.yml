@@ -8,10 +8,8 @@
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
-# remote_theme: jekyll-theme-minimal
-title: 嶽洋留記  # This shows up in every page?
-# description: Welcome to my site!
-# theme: minima   # or cayman, slate, etc.
+title: "嶽洋留記"
+description: "一個歷史遊戲迷的回憶錄"
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
