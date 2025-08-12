@@ -39,7 +39,7 @@ jekyll-archives:
 # Misc.
 comments: false
 remote_theme: uscache/mediumish-theme-jekyll
-
+logo: "assets/imgs/logo.png"
 
 # header_pages:
 #   - rey.md
