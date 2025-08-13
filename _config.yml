@@ -13,9 +13,10 @@
 name: "嶽洋留記"
 description: "一個歷史遊戲迷的回憶錄"
 logo: "assets/imgs/logo.png"
+favicon: 'assets/imgs/logo.png'
 # google_analytics: 'UA-46278016-1'
 # disqus: 'demowebsite'
-# favicon: 'assets/images/logo.png'
+comments: true
 
 
 # Plugins
@@ -43,5 +44,4 @@ jekyll-archives:
 
 
 # Misc.
-comments: false
 remote_theme: uscache/mediumish-theme-jekyll
