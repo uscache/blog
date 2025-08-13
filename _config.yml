@@ -12,8 +12,8 @@
 # Site
 name: "嶽洋留記"
 description: "一個歷史遊戲迷的回憶錄"
-logo: "assets/imgs/logo.png"
-favicon: 'assets/imgs/logo.png'
+logo: "assets/images/logo.png"
+favicon: 'assets/images/logo.png'
 # google_analytics: 'UA-46278016-1'
 disqus: 'uscache'
 comments: true
