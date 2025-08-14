@@ -17,6 +17,7 @@ favicon: 'assets/images/logo.png'
 google_analytics: 'G-6VFCZMQV40'
 disqus: 'uscache'
 comments: true
+url: https://uscache.github.io/blog/
 
 
 # Plugins
