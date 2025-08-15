@@ -17,8 +17,11 @@ favicon: 'assets/images/logo.png'
 google_analytics: 'G-6VFCZMQV40'
 disqus: 'uscache'
 comments: true
-url: https://uscache.github.io/blog
+# url: https://uscache.github.io/blog
+# baseurl: /blog
 
+# not specifying `url`: entries in sitemap becomes ~//ARTICLE
+# `url: https://uscache.github.io/blog`: ~/blog/blog
 
 # Plugins
 plugins:
